@@ -1,0 +1,35 @@
+h1 {
+font-family: "Raleway", sans-serif;
+font-weight: 400;
+margin: 0;
+}
+
+p {
+font-family: "Droid Serif", serif;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+div {
+    text-decoration: none;
+    margin: 40px, 8px, 40px, 8px;
+}
+header{
+  background-color: #F15B31;
+  font color: #FFFFFF;
+  padding:  30px, 20px, 30px, 20px
+}
+nav {
+  background-color: #00A6B3;
+  font color: #FFFFFF;
+  padding: 20px, 0px, 20px, 0px;
+  margin: 20px;
+}
+main{
+  width: 850px;
+  margin: 35px, auto, 35px, auto;
+}
